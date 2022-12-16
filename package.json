@@ -1,0 +1,22 @@
+{
+  "name": "sabexintergation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harshshaw/sabex.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/harshshaw/sabex/issues"
+  },
+  "homepage": "https://github.com/harshshaw/sabex#readme",
+  "devDependencies": {
+    "hardhat": "^2.12.4"
+  }
+}
